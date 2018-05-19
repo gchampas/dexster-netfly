@@ -40,7 +40,7 @@ theme = "hugo-elate-theme"
   # Hero section
   [params.hero]
     title = "Do something you love."
-    subtitle = 'You are the creator, comit to the ideas in your head.'<a href="http://dexs.com.au/" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
+    subtitle = 'You are the creator comit to the ideas in your head.' <a href="http://dexs.com.au" target="_blank" title="Free HTML5 Bootstrap Templates">FREEHTML5.co</a> released under <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">Creative Commons 3.0</a><br> ported for Hugo by <a href="http://saey55.gitlab.io/pietercv" target="_blank">Pieter Saey</a>'
  
   # Intro section
   # Available icons: http://simplelineicons.com/
