@@ -2,6 +2,7 @@
 baseurl = "localhost:1313"
 title = "Digital Exchange"
 languageCode = "en-us"
+theme = "hugo-elate-theme"
 
 [params]
   
